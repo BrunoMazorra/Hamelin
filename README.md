@@ -2,7 +2,7 @@
 author:
 - Bruno Mazorra, Michael Reynolds
 date: July 2022
-title: "The Polygon Pied Piper Stategy: Bug Bounty Report"
+title: "The Polygon Pied Piper Stategy"
 ---
 <p align="center">
     <img src="https://i.imgur.com/vtNxlWz.jpg" width="300">
