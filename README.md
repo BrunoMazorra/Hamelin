@@ -169,6 +169,14 @@ changes in the bor client. Also, this solution would immediately prevent
 this attack. **In conclusion, we recommend a mix between the second and
 third solutions**.
 
+
+# Theoretical results
+
+<p align="center">
+    <img src="https://i.imgur.com/ctRxNYq.jpg" width="300">
+</p>
+
+
 # Supporting material/references
 
 1.  [Flashboys 2.0.](#https://arxiv.org/abs/1904.05234)
