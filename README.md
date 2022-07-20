@@ -4,9 +4,9 @@ author:
 date: July 2022
 title: "The Polygon Pied Piper Stategy"
 ---
-<p align="center">
-    <img src="https://i.imgur.com/vtNxlWz.jpg" width="300">
-</p>
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/vtNxlWz.jpg" width="300" alt="">
+</div>
 
 # Summary
 
@@ -179,17 +179,17 @@ $\mathbb E[\Delta b_i] = \frac{k}{m+1}(ev - g m-(k-1)\gamma m) - (1-\frac{k}{m+1
 Where $g$ is the gas cost of the arbitrage transaction, $m$ is the gas price of the arbitrage opportunity and $\gamma$ the gas costs of the failed arbitrage transactions.
 In this setting, one can prove that, in equilibrium, players will consume the gas showed in the following graph.
 
-<p align="center">
-    <img src="https://i.imgur.com/ctRxNYq.jpg" width="300">
-</p>
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/ctRxNYq.jpg" width="300" alt="">
+</div>
 
 
 # Supporting material/references
 
-1.  [Flashboys 2.0.](#https://arxiv.org/abs/1904.05234)
-2.  [MEV negative externalities](#https://medium.com/flashbots/frontrunning-the-mev-crisis-40629a613752)
-3.  [MEV polygon spam](#https://twitter.com/bertcmiller/status/1412579402345586696?lang=zh-Hant)
+1.  [Flashboys 2.0.](https://arxiv.org/abs/1904.05234)
+2.  [MEV negative externalities](https://medium.com/flashbots/frontrunning-the-mev-crisis-40629a613752)
+3.  [MEV polygon spam](https://twitter.com/bertcmiller/status/1412579402345586696?lang=zh-Hant)
 4.  [Polygon spam analysis
-    tool](#https://github.com/ajb/polygon-spam-analysis)
-5.  [Reduce competitive spam by having sentries always send full transactions to validators](#https://github.com/maticnetwork/bor/pull/292)
+    tool](https://github.com/ajb/polygon-spam-analysis)
+5.  [Reduce competitive spam by having sentries always send full transactions to validators](https://github.com/maticnetwork/bor/pull/292)
 
