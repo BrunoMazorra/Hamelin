@@ -172,6 +172,13 @@ third solutions**.
 
 # Theoretical results
 
+**Random ordering**: Assuming that validator order transactions with sama gas price uniformly random. Furthermore, we assume that all players share the same gas costs and efficiencies for extractin the arbitrage opportunity. If there is a total of $m$ transactions competing for the $ev$ opportunity and $k\leq m$ are sent by the player $P_i$, then the expected payoff is:
+
+$\mathbb E[\Delta b_i] = \frac{k}{m+1}(ev - g m_{\min}-(k-1)\gamma m) - (1-\frac{k}{m+1})k\gamma m$
+
+Where $g$ is the gas cost of the arbitrage transaction, $m$ is the gas price of the arbitrage opportunity and $\gamma$ the gas costs of the failed arbitrage transactions.
+In this setting, one can prove that, in equilibrium, players will misuse the following gas.
+
 <p align="center">
     <img src="https://i.imgur.com/ctRxNYq.jpg" width="300">
 </p>
