@@ -177,7 +177,7 @@ third solutions**.
 $\mathbb E[\Delta b_i] = \frac{k}{m+1}(ev - g m-(k-1)\gamma m) - (1-\frac{k}{m+1})k\gamma m$
 
 Where $g$ is the gas cost of the arbitrage transaction, $m$ is the gas price of the arbitrage opportunity and $\gamma$ the gas costs of the failed arbitrage transactions.
-In this setting, one can prove that, in equilibrium, players will misuse the following gas.
+In this setting, one can prove that, in equilibrium, players will consume the gas showed in the following graph.
 
 <p align="center">
     <img src="https://i.imgur.com/ctRxNYq.jpg" width="300">
