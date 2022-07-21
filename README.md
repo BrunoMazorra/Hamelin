@@ -166,8 +166,7 @@ above for a non-negligible amount of time. The third solution changes
 the user experience, not allowing players to quickly send a bundle of
 transactions. The solution would be easy to implement with some minor
 changes in the bor client. Also, this solution would immediately prevent
-this attack. **In conclusion, we recommend a mix between the second and
-third solutions**.
+this attack. **In conclusion, the most agnostic thing to do is warn the bot owners and let the system balance itself.**
 
 
 # Theoretical results
