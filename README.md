@@ -68,7 +68,7 @@ the end of this report.
 We ran short tests of the example strategy on Polygon PoS mainnet to
 obtain data to establish a proof of concept; it was impossible to use a
 private testnet as we were unable to replicate the obfuscated behaviour
-of MEV bots on mainnet. To comply with the bug bounty requirements: we
+of MEV bots on mainnet.  We
 generated transactions exclusively **off-chain** with code that is
 **private** to us; we did **not** attempt the example strategy with such
 volume and order size as to cause a DDoS event or to cause user
