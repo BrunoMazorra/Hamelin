@@ -16,7 +16,8 @@ the following vulnerabilities:
 
 1.  Censorship of user transactions (**medium**)
 2.  Denial of service attacks (**medium**)
-3.  Chain halt and shutting down the network (**critical**)
+3.  Drain bots.
+3.  Chain halt and shutting down the network (**critical but unlikely**)
 
 The strategy creates visible arbitrage opportunities in the mempool to
 incentivise MEV bots to spam arbitrage transactions. Manipulation of
