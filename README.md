@@ -62,7 +62,7 @@ vi) For each address, broadcast $\texttt{tx}_2$. Wait for
 vii) Go back to step iv).
 
 A python script to reproduce this example of the strategy is given at
-the end of this report.
+the end of this report. (Not in this repo)
 
 # Impact
 
